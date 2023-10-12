@@ -1,0 +1,29 @@
+
+        body {
+            max-width: 600px;
+            margin: 50px auto;
+            background-image: url('https://tse3.mm.bing.net/th?id=OIP.7uArPOW2riwkIBPNa_CBQAHaJ3&pid=Api&P=0&h=180'); /* Correção aqui */
+            background-size: 100% 100%; /* Imagem cobrirá todo o fundo */
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            color: black; /* Cor adicionada para melhorar a legibilidade do texto */
+        }
+        
+        h1 {
+            text-align: center;
+        }
+        
+        div {
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        a {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 5px;
+            border: 1px solid #ffffff;
+            text-decoration: none;
+            color: #ffffff;
+        }
+    

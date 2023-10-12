@@ -1,0 +1,29 @@
+
+        body {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: red;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            color: aliceblue;
+            text-align: center;
+        }
+        
+        div {
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        a {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 5px;
+            border: 1px solid #ffffff;
+            text-decoration: none;
+            color: #ffffff;
+            cursor: pointer; /* Adicionamos cursor pointer para indicar que é clicável */
+        }
+    
